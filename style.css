@@ -41,5 +41,14 @@ h1{
 
     background-color: green;
 }
+#red.circle{
+    margin-bottom: 1rem;
+}
 
+#yellow.circle{
+    margin-bottom: 1rem;
+}
 
+#green.circle{
+    margin-bottom: 1rem;
+}
